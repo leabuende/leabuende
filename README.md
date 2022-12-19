@@ -77,8 +77,8 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
+  
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 
 
 </details>
