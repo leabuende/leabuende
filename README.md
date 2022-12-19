@@ -15,7 +15,8 @@
   <a href="mailto:lea.buende@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/leabuende/"><img height="30" src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lea.buende/"><img height="30"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="30" src="https://img.shields.io/badge/-My%20website-ff69b4"/>
+  <a href="https://lea-buende.com/">
+    <img height="30" src="https://img.shields.io/badge/-My%20website-ff69b4"/> </a>
 </p>
 
 <hr/>
