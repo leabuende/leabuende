@@ -147,14 +147,15 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <hr/>
 <p align="center">
   <img height=100 src="https://user-images.githubusercontent.com/46668755/208438149-7a118997-5359-4838-bf52-0cb462db6508.gif"/>
+   <p> "Hope and curiosity about the future seemed better than guarantees. That's the way I was. The unknown was always so attractive to me... and still is."
+
+</p>
 </p>
 
 <p align="center">
  <a href="ko-fi.com/leabuende">
    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
-   <p> "Hope and curiosity about the future seemed better than guarantees. That's the way I was. The unknown was always so attractive to me... and still is."
-
-</p>
+  
  </a>
 </p>
 
