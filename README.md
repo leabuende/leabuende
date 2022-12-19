@@ -4,7 +4,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying Software Engineering at [Efrei](https://efrei.fr/) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying Software Engineering at [Efrei](https://efrei.fr/) \ 🚀
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Based in Paris\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; Coding since 2018.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; Freelance designer, developer & content creator\
