@@ -4,7 +4,9 @@
 
 ### 👋 &nbsp;About Me 
 
-&nbsp;&nbsp;&nbsp;👩🏽‍💻 &nbsp;Currently studying Software Engineering at [Efrei](https://efrei.fr/) \
+⚡ <strong> C U R R E N T L Y :</strong> Looking for a Software engineering internship
+
+&nbsp;&nbsp;&nbsp;👩🏽‍💻 &nbsp;Software Engineering student at [Efrei](https://efrei.fr/) \
 &nbsp;&nbsp;&nbsp;📍 &nbsp;Based in Paris\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Coding since 2018.\
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;Freelance designer, developer & content creator\
