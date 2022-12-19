@@ -12,10 +12,10 @@
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp; Ping me about : Diversity in tech, design and web development, Vue.js, anything doggo related.
 
 <p align="center">
-  <a href="mailto:lea.buende@gmail.com"><img height="10" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/leabuende/"><img height="10" src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lea.buende/"><img height="10"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="10" src="https://img.shields.io/badge/-My%20website-ff69b4"/>
+  <a href="mailto:lea.buende@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/leabuende/"><img height="30" src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lea.buende/"><img height="30"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://img.shields.io/badge/-My%20website-ff69b4"/>
 </p>
 
 <hr/>
