@@ -2,14 +2,14 @@
 
 
 
-### :space_invader: &nbsp;About Me
+### 👋 &nbsp;About Me 
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying Software Engineering at [Efrei](https://efrei.fr/) \ 🚀
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Based in Paris\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; Coding since 2018.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; Freelance designer, developer & content creator\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;I am passionnate about making tech a more accessible and diverse field \
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp; Ping me about : Diversity in tech, design and web development, Vue.js, anything doggo related.
+&nbsp;&nbsp;&nbsp;👩🏽‍💻 &nbsp;Currently studying Software Engineering at [Efrei](https://efrei.fr/) \
+&nbsp;&nbsp;&nbsp;📍 &nbsp;Based in Paris\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Coding since 2018.\
+&nbsp;&nbsp;&nbsp;🚀 &nbsp;Freelance designer, developer & content creator\
+&nbsp;&nbsp;&nbsp;🫂 &nbsp;I am passionnate about making tech a more accessible and diverse field \
+&nbsp;&nbsp;&nbsp;💬 &nbsp;Ping me about : Diversity in tech, design and web development, Vue.js, anything doggo related.
 
 <p align="center">
   <a href="mailto:lea.buende@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
