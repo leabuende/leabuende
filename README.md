@@ -145,6 +145,9 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <hr/>
+<p align="center">
+  <img height=100 src="https://user-images.githubusercontent.com/46668755/208438149-7a118997-5359-4838-bf52-0cb462db6508.gif"/>
+</p>
 
 <p align="center">
  <a href="ko-fi.com/leabuende">
