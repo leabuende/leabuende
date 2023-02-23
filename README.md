@@ -4,7 +4,7 @@
 
 ### 👋 &nbsp;About Me 
 
-⚡ <strong> C U R R E N T L Y :</strong> Looking for a Software engineering internship, [contact me](mailto:lea.buende@gmail.com) !
+⚡ <strong> C U R R E N T L Y :</strong> Open to freelance opportunities, [contact me](mailto:lea.buende@gmail.com) !
 
 &nbsp;&nbsp;&nbsp;👩🏽‍💻 &nbsp;Software Engineering student at [Efrei](https://efrei.fr/) \
 &nbsp;&nbsp;&nbsp;📍 &nbsp;Based in Paris\
