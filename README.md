@@ -97,6 +97,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 
+[![An image of @leabuende's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leabuende)](https://holopin.io/@leabuende)
 <hr/>
 
 ### Quote of the month
