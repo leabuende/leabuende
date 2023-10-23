@@ -12,7 +12,6 @@
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;Freelance designer, developer & content creator\
 &nbsp;&nbsp;&nbsp;🫂 &nbsp;I am passionnate about making tech a more accessible and diverse field \
 &nbsp;&nbsp;&nbsp;💬 &nbsp;Ping me about : Diversity in tech, design and web development, Vue.js, anything doggo related 🐶
-![Léa's GitHub stats](https://github-readme-stats.vercel.app/api?username=leabuende&show_icons=true&theme=radical)
 
 <p align="center">
   <a href="mailto:lea.buende@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
